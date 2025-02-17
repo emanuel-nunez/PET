@@ -8,3 +8,4 @@ sonar {
     property("sonar.projectName", "Pet")
   }
 }
+
